@@ -1,1 +1,1 @@
-# easyborn
+# xl_graph_generator
